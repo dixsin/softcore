@@ -8,6 +8,7 @@ Last Версия - 1.0
 * Переписан файл Player.php
 * Изменены транзакции
 * Пофикшены микро-таймы
+* Добавлена новая функция $player->sendType($message, $type); Типы сообщений: 1 - Message, 2 - Title, 3 - Tip, 4 - Popup.
 # xSoftCore v2.0.5.1:
 * Убрана нагрузка от мобов
 * Сокращен AsynkWorken
