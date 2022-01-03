@@ -3,12 +3,13 @@
 * Для установки введите в терминале `wget --trust-server https://github.com/dixsin/softcore/blob/main/install/install.sh?raw=true`
 * После выдайте права установщику `chmod +x ./install.sh`
 * Далее запустите скрипт `./install.sh` и ожидайте установку!
+
 # xSoftCore
 Сдесь собраны публичные вресии ядра xSoftCore!
 На вкус и цвет товарища нет!
 Last Версия: 1.0.0-BETA
+
 # xSoftCore Public
-# Последние обновления
 # xSoftCore v1.0.0:
 * Изменены чанки
 * Изменены тайминги
@@ -21,8 +22,8 @@ Last Версия: 1.0.0-BETA
 * Оптимизация ядра
 * Исправлен баг с PocketMine\GIT_COMMIT
 * Изменена бан система
+
 # xSoftCore Private
-# Последние обновления
 # xSoftCore v2.0.7:
 * Пофикшен баг с raknet
 * Изменена спецификация конфигов
