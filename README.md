@@ -1,6 +1,6 @@
-# Установка
-* Для установки введите `wget --trust-server https://github.com/dixsin/softcore/blob/main/install/install.sh?raw=true`
-* После выдайте права установщику `chmod +x install.sh`
+# Установка для Linux/MacOS
+* Для установки введите в терминале `wget --trust-server https://github.com/dixsin/softcore/blob/main/install/install.sh?raw=true`
+* После выдайте права установщику `chmod +x ./install.sh`
 * Далее запустите скрипт `./install.sh` и ожидайте установку!
 # xSoftCore
 Сдесь собраны публичные вресии ядра xSoftCore!
