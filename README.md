@@ -1,4 +1,4 @@
-# <img src="https://github.com/dixsin/softcore/blob/main/logo.png">
+<img src="https://github.com/dixsin/softcore/blob/main/logo.png">
 # Установка для Linux/MacOS
 * Для установки введите в терминале `wget --trust-server https://github.com/dixsin/softcore/blob/main/install/install.sh?raw=true`
 * После выдайте права установщику `chmod +x ./install.sh`
