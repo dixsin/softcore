@@ -22,6 +22,7 @@ Last Версия: 1.0.0-BETA
 * Оптимизация ядра
 * Исправлен баг с PocketMine\GIT_COMMIT
 * Изменена бан система
+* Изменена генерация
 
 # xSoftCore Private
 # xSoftCore v2.0.7:
