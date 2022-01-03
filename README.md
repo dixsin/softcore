@@ -1,4 +1,4 @@
-<img src="https://vk.com/photo602737740_457242800">
+# <img src="https://vk.com/photo602737740_457242800">
 # Установка для Linux/MacOS
 * Для установки введите в терминале `wget --trust-server https://github.com/dixsin/softcore/blob/main/install/install.sh?raw=true`
 * После выдайте права установщику `chmod +x ./install.sh`
