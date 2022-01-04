@@ -1,6 +1,6 @@
-echo Установка ядра xSoftCore Public 1.0.2!
-wget --trust-server https://github.com/dixsin/softcore/tree/main/versions/1.0.2p.tar.gz?raw=true
-tar -xvf 1.0.2.tar.gz
+echo Установка ядра xSoftCore Public 1.0.3!
+wget --trust-server https://github.com/dixsin/softcore/tree/main/versions/1.0.3p.tar.gz?raw=true
+tar -xvf 1.0.3p.tar.gz
 clear
 echo Установка библиотек 7.3!
 wget --trust-server https://github.com/dixsin/installer/blob/main/PHP-7.3_Linux-x86_64.tar.gz?raw=true
