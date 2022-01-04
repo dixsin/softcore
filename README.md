@@ -7,7 +7,7 @@
 # xSoftCore
 Сдесь собраны публичные вресии ядра xSoftCore!
 На вкус и цвет товарища нет!
-Last Версия: 1.0.2
+Last Версия: 1.0.4
 
 # xSoftCore Public
 # xSoftCore v1.0.0:
